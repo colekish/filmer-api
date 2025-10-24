@@ -1,5 +1,3 @@
 {
-  "version": 2,
-  "builds": [{ "src": "api/filmers.js", "use": "@vercel/node" }],
-  "routes": [{ "src": "/api/filmers", "dest": "/api/filmers.js" }]
+  "version": 2
 }
